@@ -1,0 +1,2 @@
+data: 10 0.5 5 1
+eq result: 0
